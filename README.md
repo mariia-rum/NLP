@@ -7,6 +7,7 @@ After preprocessing has held. Preprocessing is always a crucial part when it com
 - Removing the stopwords
 - Tokenizing the text
 - Stemming and Lemmatization of the text
+
 For my task I used 2 main text summarisation methods:
 - Extractive summarization.
 - Abstracttive summarization
